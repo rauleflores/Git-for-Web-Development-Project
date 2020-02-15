@@ -105,7 +105,7 @@ https://codepen.io/rauleflores/pen/eYNJajw?editors=0100
         All the time, especially when leaving our machine for longer than a couple minutes at a time.
 
     36. What is the command we would use to push our repo up to github? 
-        git push origin <file>
+        git push origin <branch>
 
     37. Walk me through Lambda's git flow. 
 
