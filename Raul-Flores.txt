@@ -108,6 +108,8 @@ https://codepen.io/rauleflores/pen/eYNJajw?editors=0100
         git push origin <branch>
 
     37. Walk me through Lambda's git flow. 
+        Fork on GitHub then clone to your machine. Work on/make changes to file/document then save. Then use git commands to add/commit/push. Once bavk on Github make a pull request and add your TL as a reviewer.
+        | git clone <url> || git add . -> git commit -m "commit notes" -> git push origin <branch> |
 
 Stretch Questions
 
