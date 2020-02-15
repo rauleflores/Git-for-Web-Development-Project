@@ -129,4 +129,7 @@ Stretch Questions
         inline-block: <input>
 
     5. In your own words, explain the box model. What is the fix for the box model? 
-        
+        It is how CSS interprets and then styles the invisible 'boxes' that surround HTML elements. From inner to outer: content->padding->border->margin.
+        By default it starts at the content level when calculating the dimensions of an element meaning that the padding, border and margin must all be 
+        taken into account when setting the height+width for styling an element. This can be fixed by using box-sizing:border-box; which modifies the box model
+        to start at the border level so that CSS also takes padding and border into account with content when styling.
