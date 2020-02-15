@@ -57,7 +57,7 @@ https://codepen.io/rauleflores/pen/eYNJajw?editors=0100
         A class could be used to make all the text in the header underlined and red, you could then use an ID to make only the first word of the header have a larger font and a different color.
 
     20. How do we select classes in CSS?
-    Using the class selector: .className{} where the dot is the selector.
+        Using the class selector: .className{}.
 
     21. How do we select a p element with a single class of “human””?
         You could use p.human{}.
